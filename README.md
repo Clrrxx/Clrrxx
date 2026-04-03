@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Technological University in Singapore.<br>Currently, I am building my foundations in coding and IT, but I have plans on becoming an embedded Engineer<br>I also dabble in video editing and I make edits of my favorite game characters over on [Tiktok](https://www.tiktok.com/@user_kage) and [Youtube](https://www.youtube.com/@ClorxxKage)<br>Watch my progress as I navigate this period of my life
+Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Technological University in Singapore.<br>Currently, I am building my foundations in coding and IT, but I have plans on becoming an embedded Engineer<br>I also dabble in video editing and I make edits of my favorite game characters over on [Tiktok](https://www.tiktok.com/@user_kage) and [Youtube](https://www.youtube.com/@ClorxxKage)<br>Watch my progress as I navigate this period of my life
 
 
 ## Socials:
