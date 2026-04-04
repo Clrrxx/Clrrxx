@@ -16,10 +16,8 @@ Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Te
 
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=clrrxx&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=clrrxx)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=clrrxx&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clrrxx&icon=1&color=2)](https://visitcount.itsvg.in)
