@@ -14,11 +14,6 @@ Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Te
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=clrrxx&theme=gruvbox_light&hide_border=false)<br/>
 
-
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=clrrxx)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=clrrxx&icon=1&color=2)](https://visitcount.itsvg.in)
 
