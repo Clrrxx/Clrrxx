@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Technological University in Singapore.<br>Currently, I am building my foundations in coding and IT, but I have plans on becoming an embedded Engineer<br>I also dabble in video editing and I make edits of my favorite game characters over on [Tiktok](https://www.tiktok.com/@user_kage) and [Youtube](https://www.youtube.com/@ClorxxKage)<br>Watch my progress as I navigate this period of my life
+Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Technological University in Singapore.<br>Currently, I am building my foundations in coding and IT, but I have plans on becoming an embedded Engineer<br>I also dabble in video editing and I make edits of my favorite game characters over on [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@user_kage) and [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ClorxxKage)<br>Watch my progress as I navigate this period of my life
 
 
 ## Socials:
@@ -11,13 +11,19 @@ Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Te
 # Softwares: 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=clrrxx&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=clrrxx&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=clrrxx&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=clrrxx&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=clrrxx&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=clrrxx&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=clrrxx&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=clrrxx&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Clrrxx&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=clrrxx&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
