@@ -12,9 +12,8 @@ Hi, my name's Joshua, <br>I am a Y1 Computer Science undergraduate at Nanyang Te
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white)
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=clrxx&theme=gruvbox_light&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=clrrxx&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=clrrxx&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=clrrxx&theme=gruvbox_light&hide_border=false)<br/>
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=clrrxx&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
