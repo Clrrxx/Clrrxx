@@ -13,7 +13,6 @@ Hi, my name's Joshua, <br>I am a Y2 Computer Science undergraduate at Nanyang Te
 
 # GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=clrrxx&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clrrxx&icon=1&color=2)](https://visitcount.itsvg.in)
